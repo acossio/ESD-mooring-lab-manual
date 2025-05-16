@@ -1,1 +1,1 @@
-Sitemap: https://nmfs-opensci.github.io/NOAA-quarto-simple/sitemap.xml
+Sitemap: https://acossio.github.io/ESD-mooring-lab-manual/sitemap.xml
