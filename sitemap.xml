@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://acossio.github.io/ESD-mooring-lab-manual/content/add-content.html</loc>
-    <lastmod>2025-05-16T20:38:39.404Z</lastmod>
-  </url>
-  <url>
-    <loc>https://acossio.github.io/ESD-mooring-lab-manual/content/code.html</loc>
-    <lastmod>2025-05-16T20:38:39.404Z</lastmod>
+    <loc>https://acossio.github.io/ESD-mooring-lab-manual/index.html</loc>
+    <lastmod>2025-08-19T20:28:35.986Z</lastmod>
   </url>
   <url>
     <loc>https://acossio.github.io/ESD-mooring-lab-manual/content/customizing.html</loc>
-    <lastmod>2025-05-16T20:38:39.404Z</lastmod>
+    <lastmod>2025-08-19T20:28:35.944Z</lastmod>
+  </url>
+  <url>
+    <loc>https://acossio.github.io/ESD-mooring-lab-manual/content/code.html</loc>
+    <lastmod>2025-08-19T20:28:35.944Z</lastmod>
   </url>
   <url>
     <loc>https://acossio.github.io/ESD-mooring-lab-manual/content/acknowledgements.html</loc>
-    <lastmod>2025-05-16T20:38:39.404Z</lastmod>
-  </url>
-  <url>
-    <loc>https://acossio.github.io/ESD-mooring-lab-manual/index.html</loc>
-    <lastmod>2025-05-16T20:38:39.404Z</lastmod>
-  </url>
-  <url>
-    <loc>https://acossio.github.io/ESD-mooring-lab-manual/content/rmarkdown.html</loc>
-    <lastmod>2025-05-16T20:38:39.404Z</lastmod>
+    <lastmod>2025-08-19T20:28:35.944Z</lastmod>
   </url>
   <url>
     <loc>https://acossio.github.io/ESD-mooring-lab-manual/content/publishing.html</loc>
-    <lastmod>2025-05-16T20:38:39.404Z</lastmod>
+    <lastmod>2025-08-19T20:28:35.956Z</lastmod>
+  </url>
+  <url>
+    <loc>https://acossio.github.io/ESD-mooring-lab-manual/content/rmarkdown.html</loc>
+    <lastmod>2025-08-19T20:28:35.956Z</lastmod>
+  </url>
+  <url>
+    <loc>https://acossio.github.io/ESD-mooring-lab-manual/content/add-content.html</loc>
+    <lastmod>2025-08-19T20:28:35.944Z</lastmod>
   </url>
   <url>
     <loc>https://acossio.github.io/ESD-mooring-lab-manual/content/rendering.html</loc>
-    <lastmod>2025-05-16T20:38:39.404Z</lastmod>
+    <lastmod>2025-08-19T20:28:35.956Z</lastmod>
   </url>
 </urlset>
