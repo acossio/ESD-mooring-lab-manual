@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OxygenSensor SensorID="72" SB_ConfigCTD_FileVersion="7.23.0.2" >
+  <SerialNumber>1755</SerialNumber>
+  <CalibrationDate>25-Mar-25</CalibrationDate>
+  <A0>1.051300e+000</A0>
+  <A1>-1.500000e-003</A1>
+  <A2>4.541140e-001</A2>
+  <B0>-2.157862e-001</B0>
+  <B1>1.663203e+000</B1>
+  <C0>8.892168e-002</C0>
+  <C1>3.767435e-003</C1>
+  <C2>5.164515e-005</C2>
+  <TA0>7.251369e-004</TA0>
+  <TA1>2.446255e-004</TA1>
+  <TA2>1.283146e-006</TA2>
+  <TA3>8.257018e-008</TA3>
+  <pcor>1.100000e-002</pcor>
+</OxygenSensor>

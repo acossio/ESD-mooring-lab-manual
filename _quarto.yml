@@ -3,7 +3,7 @@ project:
 
 website: 
   page-navigation: true
-  title: "NOAA quarto simple" 
+  title: "ESD mooring lab manual" 
   site-url: "https://acossio.github.io/ESD-mooring-lab-manual" 
   repo-url: "https://github.com/acossio/ESD-mooring-lab-manual"
   repo-actions: [edit, source, issue]
